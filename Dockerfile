@@ -5,7 +5,7 @@ FROM openjdk:11-jre-slim
 WORKDIR /app
 
 # Copy the built JAR file from the local system to the container
-COPY out/artifacts/Book-Management-API.jar /app/Book-Management-API.jar
+COPY out/artifacts/Book-Management-API.jar /app/Book_Management_API_jar/Book-Management-API.jar
 
 # Expose the port that your Spring Boot application will run on
 EXPOSE 8080
