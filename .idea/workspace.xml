@@ -9,30 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d9665a1-5b98-475d-b8e9-7514c2b09c21" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Book_Management_API_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/Book_Management_API_jar/Book-Management-API.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/BookManagementApiApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/CourseCommandLineRunner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/entities/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/entities/Borrower.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/exceptionhandling/CustomizedResponseEntityExceptionHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/exceptionhandling/ErrorDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/ManagementService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/myprojects/bookmanagementapi/BookManagementApiApplicationTests.class" afterDir="false" />
-    </list>
+    <list default="true" id="3d9665a1-5b98-475d-b8e9-7514c2b09c21" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +108,7 @@
       <workItem from="1718055068909" duration="3856000" />
       <workItem from="1718223206975" duration="2064000" />
       <workItem from="1729589266905" duration="2918000" />
-      <workItem from="1729626814243" duration="300000" />
+      <workItem from="1729626814243" duration="1137000" />
     </task>
     <servers />
   </component>
