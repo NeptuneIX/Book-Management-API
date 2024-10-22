@@ -15,4 +15,4 @@ COPY --from=build /out/artifacts/Book_Management_API_jar2/Book-Management-API.ja
 EXPOSE 8080
 
 # Run the JAR file
-ENTRYPOINT ["java", "-jar", "/app/Book-Management-API.jar"]
+ENTRYPOINT ["java", "-jar", "/Book-Management-API.jar"]
