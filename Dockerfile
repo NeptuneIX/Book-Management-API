@@ -1,14 +1,18 @@
-# Use an official Java runtime as a parent image
-FROM openjdk:11-jre-slim
+FROM maven:3.8.5-openjdk-17 AS build
 
-# Set the working directory in the container
-WORKDIR /app
+# Copy your project files
+COPY . .
 
-# Copy the built JAR file from the local system to the container
-COPY out/artifacts/Book_Management_API_jar/Book-Management-API.jar /app/Book-Management-API.jar
+# Package the application
+RUN mvn clean package -DskipTests
 
-# Expose the port that your Spring Boot application will run on
+FROM openjdk:17.0.1-jdk-slim
+
+# Copy the built JAR file from the correct path
+COPY --from=build /app/out/artifacts/Book_Management_API_jar2/Book-Management-API.jar /app/Book-Management-API.jar
+
+# Expose the port
 EXPOSE 8080
 
 # Run the JAR file
-CMD ["java", "-jar", "Book-Management-API.jar"]
+ENTRYPOINT ["java", "-jar", "/app/Book-Management-API.jar"]
