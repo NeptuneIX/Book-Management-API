@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Book-Management-API:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d9665a1-5b98-475d-b8e9-7514c2b09c21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Book_Management_API_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/Book_Management_API_jar/Book-Management-API.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/BookManagementApiApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/CourseCommandLineRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/entities/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/entities/Borrower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/exceptionhandling/CustomizedResponseEntityExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/exceptionhandling/ErrorDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/ManagementService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/myprojects/bookmanagementapi/BookManagementApiApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2h1TcIwb5Ku38mfajSUTnN4O5EX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BookManagementApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.myprojects.bookmanagementapi" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BookManagementApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Book-Management-API" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myprojects.bookmanagementapi.BookManagementApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d9665a1-5b98-475d-b8e9-7514c2b09c21" name="Changes" comment="" />
+      <created>1716760664194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716760664194</updated>
+      <workItem from="1716760665322" duration="1683000" />
+      <workItem from="1716927415253" duration="4283000" />
+      <workItem from="1717019207123" duration="2053000" />
+      <workItem from="1717107902765" duration="1239000" />
+      <workItem from="1717193468871" duration="2439000" />
+      <workItem from="1717262148679" duration="5020000" />
+      <workItem from="1717363500624" duration="3166000" />
+      <workItem from="1717535582137" duration="2694000" />
+      <workItem from="1717622073496" duration="4078000" />
+      <workItem from="1717795888255" duration="3489000" />
+      <workItem from="1717969100530" duration="1290000" />
+      <workItem from="1718055068909" duration="3856000" />
+      <workItem from="1718223206975" duration="2064000" />
+      <workItem from="1729589266905" duration="2918000" />
+      <workItem from="1729626814243" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
