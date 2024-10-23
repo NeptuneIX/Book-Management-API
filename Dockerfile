@@ -9,7 +9,7 @@ RUN mvn clean package -DskipTests
 FROM openjdk:17.0.1-jdk-slim
 
 # Copy the built JAR file from the correct path
-COPY --from=build /out/artifacts/Book_Management_API_jar2/Book-Management-API.jar Book-Management-API.jar
+COPY --from=build /target/Book-Management-API-0.0.1-SNAPSHOT.jar Book-Management-API.jar
 
 # Expose the port
 EXPOSE 8080

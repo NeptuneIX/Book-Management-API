@@ -10,8 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d9665a1-5b98-475d-b8e9-7514c2b09c21" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Book_Management_API_jar2/Book-Management-API.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myprojects/bookmanagementapi/restfulwebservices/BorrowerRepository.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.Book-Management-API [package].executor": "Run",
     "RequestMappingsPanelOrder0": "0",
     "RequestMappingsPanelOrder1": "1",
     "RequestMappingsPanelWidth0": "75",
@@ -63,6 +68,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
@@ -112,7 +118,8 @@
       <workItem from="1718055068909" duration="3856000" />
       <workItem from="1718223206975" duration="2064000" />
       <workItem from="1729589266905" duration="2918000" />
-      <workItem from="1729626814243" duration="4276000" />
+      <workItem from="1729626814243" duration="5283000" />
+      <workItem from="1729682257993" duration="474000" />
     </task>
     <servers />
   </component>
