@@ -39,8 +39,5 @@ Welcome to the Book Management API!
 8. **Spring Boot Actuator**: Provides production-ready features like monitoring and management.
 9. **Development Tools**: Spring Boot DevTools for live reload during development, enhancing developer productivity.
 
-
-
-
-
-Video overview: https://youtu.be/g1gg6iNEiWY
+## Video Overview
+[Watch the video overview](https://youtu.be/g1gg6iNEiWY)
